@@ -24,7 +24,7 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
     }
   ],
   "require": {
-    "reklos/vonage-whatsapp-template-management-php-sdk": "*@dev"
+    "reklos/vonage-whatsapp-template-management-php-sdk": "1.4.0"
   }
 }
 ```
